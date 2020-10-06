@@ -1,2 +1,0 @@
-# heightconverter
-java desktop application 
